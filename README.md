@@ -37,3 +37,5 @@ Cons:
 
 ## Goals
 My goal is to create something that takes what I consider to be the positives of the two existing solutions and put them together in a way that erases the weaknesses outlined above.  Ideally you will be given an option to browse to the cookie associated with the login you wish to use and then the program can read the values every time if the session isn't able to persist in some way, however ASF is managing to do that.  Once your logged in and it's persistent, the goal would be to use the slamma-jamma method of idling to blitz through the backlog of games with card drops remaining.  
+
+A secondary goal might be to see if whatever I write for this program can get ported to linux and maybe get it up and running on steam deck.
